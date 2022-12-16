@@ -41,7 +41,7 @@
     "helmet": "^3.18.0",
     "jsonwebtoken": "^8.5.1",
     "lodash": "^4.17.11",
-    "mocha": "^6.1.4",
+    "mocha": "^6.2.3",
     "mongodb": "^3.2.6",
     "mongoose": "^5.5.12",
     "react": "^16.8.6",
